@@ -1,2 +1,1 @@
-# Test
-Testing repository
+This is a test tutorial repository
